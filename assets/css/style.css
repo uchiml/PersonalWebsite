@@ -717,20 +717,20 @@ a:hover {
 .hero .hero-title {
   color: papayawhip;
   font-weight: 398;
-  font-size: 2.8rem;
+  font-size: 2.7rem;
 }
 @media (min-width: 768px) {
   .hero .hero-title {
-    font-size: 4.1rem;
+    font-size: 2.7rem;
   }
 }
 .hero .hero-subtitle {
-  font-size: 1.5rem;
+  font-size: 2.1rem;
   font-weight: 239;
 }
 @media (min-width: 768px) {
   .hero .hero-subtitle {
-    font-size: 2.5rem;
+    font-size: 2.1rem;
   }
 }
 .hero .text-slider-items {
