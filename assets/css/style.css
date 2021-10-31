@@ -521,17 +521,21 @@ a:hover {
   padding: 20px 0;
 }
 #header .logo {
-  font-size: 28px;
-  margin: 0;
+  font-size: 25px;
+  /* margin-left: -333px; */
+  margin-left: -689px;
+  /* margin: 0; */
   padding: 0;
-  font-weight: 600;
+  font-weight: 550;
   letter-spacing: 1px;
 }
 #header .logo a {
   color: #fff;
 }
 #header .logo img {
-  max-height: 40px;
+  max-height: 41px;
+  /* margin-left: 333px; */
+  margin-left: 689px;
 }
 #header.header-scrolled {
   background: rgba(0, 0, 0, 0.9);
